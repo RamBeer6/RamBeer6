@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ram Be'er</h1>
 <h3 align="center">A Full-stack / frontend developer from Israel.</h3>
 
-- 🔭 I’m currently working on **My React.js project, that is a spotify clone named MisterBeat**
+- 🔭 I’m currently working on **My First Next.js project, that is a News site**
+
+- 🏃‍♂️ Getting finish with my spotify Project that named MisterBeat 🎵.
 
 - 🌱 I’m currently learning **Angular , and strengthens my Vue Knowledge**
 
