@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Be'er</h1>
 <h3 align="center">A Full-stack / frontend developer from Israel.</h3>
 
-- 🔭 I’m currently working on **My First Next.js project, that is a News site**
+- 🔭 I’m currently working on **My Next.js project, that is a Meetup website to demo Next.js abilities**
 
 - 🏃‍♂️ Getting finish with my spotify Project that named MisterBeat 🎵.
 
