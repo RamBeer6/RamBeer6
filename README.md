@@ -8,9 +8,10 @@ My strengths 💪 are:
 - Always likes to study independently and always enrich the knowledge.
 - Loves to deal with solving challenges.
 
-- 🏃‍♂️ Getting finish with my spotify Project that named MisterBeat 🎵.
-- 🌱 I’m currently learning **Angular , and strengthens my Vue Knowledge**
-- 
+right now..
+- 🏃‍♂️ Just finish with my spotify Project that named MisterBeat 🎵.
+- 🌱 I’m currently learning **Angular , and strengthens my Vue Knowledge**.
+- ✨ Making magic in the console.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rambeer6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rambeer6" height="30" width="40" /></a>
