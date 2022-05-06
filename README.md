@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ram Be'er</h1>
-<h3 align="center">A Full-stack developer from Israel.</h3>
+<h1 align="center">Hi 👋, my name is Ram Be'er</h1>
+<h3 align="center">I'm A Full-stack developer from Israel.</h3>
+<h3 align="center">Looking for my first job as a Junior developer</h3>
+<h3 align="center">I invite you to enter my repository and be impressed by what I have created so far.</h3>
+
 
 
 My strengths 💪 are:
