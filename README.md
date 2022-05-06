@@ -6,6 +6,7 @@
 
 
 My strengths 💪 are:
+- Coding in JS with React & Redux.
 - Problem-solving access based on algorithms and data structure.
 - Writing legible, clear and advanced code.
 - Always likes to study independently and always enrich the knowledge.
@@ -13,7 +14,7 @@ My strengths 💪 are:
 
 right now..
 - 🏃‍♂️ Just finish with my spotify Project that named MisterBeat 🎵.
-- 🌱 I’m currently learning **Angular , and strengthens my Vue Knowledge**.
+- 🌱 I’m currently learning **Angular & Ngrx , and strengthens my Vue & Vuex Knowledge**.
 - ✨ Making magic in the console.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
