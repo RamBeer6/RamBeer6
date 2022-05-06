@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ram Be'er</h1>
 <h3 align="center">A Full-stack developer from Israel.</h3>
 
-- 🔭 I’m currently working on **My Next.js project, that is a Meetup website to demo Next.js abilities**
+
+My strengths 💪 are:
+- Problem-solving access based on algorithms and data structure.
+- Writing legible, clear and advanced code.
+- Always likes to study independently and always enrich the knowledge.
+- Loves to deal with solving challenges.
 
 - 🏃‍♂️ Getting finish with my spotify Project that named MisterBeat 🎵.
-
 - 🌱 I’m currently learning **Angular , and strengthens my Vue Knowledge**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rambeer6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rambeer6" height="30" width="40" /></a>
