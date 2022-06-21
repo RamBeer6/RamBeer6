@@ -3,7 +3,8 @@
 <h3 align="center">Looking for my first job as a Junior developer</h3>
 <h3 align="center">I invite you to enter my repository and be impressed by what I have created so far.</h3>
 
-
+Checkout my latest project 🎧:
+https://misterbeat.herokuapp.com/
 
 My strengths 💪 are:
 - Coding in JS with React & Redux.
@@ -13,7 +14,6 @@ My strengths 💪 are:
 - Loves to deal with solving challenges.
 
 right now..
-- 🏃‍♂️ Just finish with my spotify Project that named MisterBeat 🎵.
 - 🌱 I’m currently learning **Angular & Ngrx , and strengthens my Vue & Vuex Knowledge**.
 - ✨ Making magic in the console.
 <h3 align="left">Connect with me:</h3>
