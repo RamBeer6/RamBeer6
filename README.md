@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Ram Be'er</h1>
-<h3 align="center">I'm A Full-stack developer from Israel.</h3>
-<h3 align="center">Looking for my first job as a Junior developer</h3>
-<h3 align="center">I invite you to enter my repository and be impressed by what I have created so far.</h3>
+<h3 align="center">I'm A Full-stack developer</h3>
+<h3 align="center">Looking for my first job</h3>
+<h3 align="center">I'm inviting you to enter my repositories to take a look of what I've made so far.</h3>
 
 Checkout my latest project 🎧:
 https://misterbeat.herokuapp.com/
