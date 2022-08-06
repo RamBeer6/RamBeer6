@@ -7,7 +7,7 @@ Checkout my latest project 🎧:
 https://misterbeat.herokuapp.com/
 
 My strengths 💪 are:
-- Coding in JS with React & Redux.
+- Coding in JS with React & Redux / Angular & Ngrx and much more..!
 - Problem-solving access based on algorithms and data structure.
 - Writing legible, clear and advanced code.
 - Always likes to study independently and always enrich the knowledge.
