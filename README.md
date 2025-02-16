@@ -11,11 +11,7 @@
 ---
 
 ## 🔥 Featured Projects  
-Here are some of my key projects:  
-
-🚀 **[Project Name 1](https://github.com/RamBeer6/project1)** - Short description (Tech stack used)  
-📊 **[Project Name 2](https://github.com/RamBeer6/project2)** - Short description (Tech stack used)  
-🌐 **[Project Name 3](https://github.com/RamBeer6/project3)** - Short description (Tech stack used)  
+**- 👷🏗️ Under Construction**
 
 ---
 
