@@ -1,20 +1,28 @@
-# 👋 Hi, I'm Ram Be'er!
+# Hi 👋, I'm Ram Be'er
 
-**Software Developer | Passionate about building scalable and efficient applications**  
+### Full Stack Developer | Security Enthusiast | IDF Platoon Commander (Res.)
 
-- 💻 Experienced in **Full-Stack Development, System Design, and Software Engineering**  
-- ⚡ Proficient in **JavaScript, TypeScript, Python, Java, Angular, React, Node.js, and PostgreSQL**  
-- 🎯 Passionate about **problem-solving, clean code, and efficient system architecture**  
-- 📫 Connect with me on **[LinkedIn](https://linkedin.com/in/rambeer) | [GitHub](https://github.com/RamBeer6)**  
-- 🌱 Currently learning **Advanced Algorithms, Cloud Computing, and DevOps**  
+- 🔭 I'm currently working on **Enhancing my Integration Runner tool with Redis queues and Docker composition for better scalability.**
 
----
+- 🌱 I'm currently learning **Advanced Cloud Security practices (AWS), Microservices patterns, and Penetration Testing basics.**
 
-## 🔥 Featured Projects  
-**- 👷🏗️ Under Construction**
+- 👯 I'm looking to collaborate on **Open Source projects related to Backend Automation, DevSecOps tools, or API Security.**
 
----
+- 💬 Ask me about **Node.js, Python (FastAPI), Secure Coding practices, and staying calm when production breaks.**
 
-## 📈 GitHub Stats  
-![Ram Be'er's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamBeer6&show_icons=true&theme=react)
+- 📫 How to reach me **ram.beer.work@gmail.com**
 
+- ⚡ Fun fact **I once spent 2 hours debugging code, only to realize I forgot to save the file.**
+
+- 👨‍💻 All of my projects are available at **[http://www.ram-beer-fullstack-dev.com/](http://www.ram-beer-fullstack-dev.com/)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/17PKOFQ8SBmzFZVSyz4Q3pxeUAl3CsKdf/view?usp=sharing](https://drive.google.com/file/d/17PKOFQ8SBmzFZVSyz4Q3pxeUAl3CsKdf/view?usp=sharing)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/RamBeer6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RamBeer6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rambeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rambeer" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
